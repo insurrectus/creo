@@ -1,0 +1,41 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Meanderings",
+    "description": "",
+    "home_page_url": "https://github.com/insurrectus/creo",
+    "feed_url": "https://github.com/insurrectus/creo/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Insurrectus Resistus"
+    },
+    "items": [
+        {
+            "id": "https://github.com/insurrectus/creo/testing.html",
+            "url": "https://github.com/insurrectus/creo/testing.html",
+            "title": "Testing",
+            "summary": "asdfasdfasdfasdfasdf adsfasdflkj;lkja;sldjkf;'[kl'asdf",
+            "content_html": "<p>asdfasdfasdfasdfasdf</p>\n<p>adsfasdflkj;lkja;sldjkf;'[kl'asdf</p>",
+            "author": {
+                "name": "Insurrectus Resistus"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-01T20:40:52-05:00",
+            "date_modified": "2025-11-01T20:40:52-05:00"
+        },
+        {
+            "id": "https://github.com/insurrectus/creo/gallery-test.html",
+            "url": "https://github.com/insurrectus/creo/gallery-test.html",
+            "title": "gallery test",
+            "summary": "love these pictures and the built-in gallery works very well. don't to text",
+            "content_html": "\n  <p>\n    love these pictures and the built-in gallery works very well.\n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://github.com/insurrectus/creo/media/posts/1/gallery/the-lord-of-the-rings-art-by-darrell-k-sweet-1934-2011-v0-5qohc39zujzd1.webp\" data-size=\"1080x1066\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://github.com/insurrectus/creo/media/posts/1/gallery/the-lord-of-the-rings-art-by-darrell-k-sweet-1934-2011-v0-5qohc39zujzd1-thumbnail.webp\" height=\"711\" width=\"720\" alt=\"i\" >\n      </a>\n      <figcaption>don't</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://github.com/insurrectus/creo/media/posts/1/gallery/Gemini_Generated_Image_1ap5xx1ap5xx1ap5.png\" data-size=\"2048x2048\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://github.com/insurrectus/creo/media/posts/1/gallery/Gemini_Generated_Image_1ap5xx1ap5xx1ap5-thumbnail.png\" height=\"720\" width=\"720\" alt=\"want\" >\n      </a>\n      <figcaption>to</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://github.com/insurrectus/creo/media/posts/1/gallery/Gemini_Generated_Image_vfuy9pvfuy9pvfuy.png\" data-size=\"2048x2048\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://github.com/insurrectus/creo/media/posts/1/gallery/Gemini_Generated_Image_vfuy9pvfuy9pvfuy-thumbnail.png\" height=\"720\" width=\"720\" alt=\"enter\" >\n      </a>\n      <figcaption>text</figcaption>\n    </figure>\n    </div>\n  </div>",
+            "author": {
+                "name": "Insurrectus Resistus"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-01T20:05:18-05:00",
+            "date_modified": "2025-11-01T20:36:31-05:00"
+        }
+    ]
+}
