@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://github.com/insurrectus/creo/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://publii.2br02b.social/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://github.com/insurrectus/creo/</loc>
+<loc>https://publii.2br02b.social/</loc>
 </url>
 <url>
-<loc>https://github.com/insurrectus/creo/gallery-test.html</loc>
+<loc>https://publii.2br02b.social/gallery-test.html</loc>
 <lastmod>2025-11-01T20:36:31-05:00</lastmod>
 <image:image>
-<image:loc>https://github.com/insurrectus/creo/media/posts/1/gallery/the-lord-of-the-rings-art-by-darrell-k-sweet-1934-2011-v0-5qohc39zujzd1.webp</image:loc>
+<image:loc>https://publii.2br02b.social/media/posts/1/gallery/the-lord-of-the-rings-art-by-darrell-k-sweet-1934-2011-v0-5qohc39zujzd1.webp</image:loc>
 <image:title><![CDATA[i]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://github.com/insurrectus/creo/media/posts/1/gallery/Gemini_Generated_Image_1ap5xx1ap5xx1ap5.png</image:loc>
+<image:loc>https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_1ap5xx1ap5xx1ap5.png</image:loc>
 <image:title><![CDATA[want]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://github.com/insurrectus/creo/media/posts/1/gallery/Gemini_Generated_Image_vfuy9pvfuy9pvfuy.png</image:loc>
+<image:loc>https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_vfuy9pvfuy9pvfuy.png</image:loc>
 <image:title><![CDATA[enter]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://github.com/insurrectus/creo/testing.html</loc>
+<loc>https://publii.2br02b.social/testing.html</loc>
 <lastmod>2025-11-01T20:40:52-05:00</lastmod>
 </url>
 </urlset>
