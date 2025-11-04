@@ -3,33 +3,12 @@
     <title>Meanderings</title>
     <link href="https://publii.2br02b.social/feed.xml" rel="self" />
     <link href="https://publii.2br02b.social" />
-    <updated>2025-11-01T20:40:52-05:00</updated>
+    <updated>2025-11-03T18:53:49-06:00</updated>
     <author>
         <name>Insurrectus Resistus</name>
     </author>
     <id>https://publii.2br02b.social</id>
 
-    <entry>
-        <title>Testing</title>
-        <author>
-            <name>Insurrectus Resistus</name>
-        </author>
-        <link href="https://publii.2br02b.social/testing.html"/>
-        <id>https://publii.2br02b.social/testing.html</id>
-
-        <updated>2025-11-01T20:40:52-05:00</updated>
-            <summary>
-                <![CDATA[
-                    asdfasdfasdfasdfasdf adsfasdflkj;lkja;sldjkf;'[kl'asdf
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>asdfasdfasdfasdfasdf</p>
-<p>adsfasdflkj;lkja;sldjkf;'[kl'asdf</p>
-            ]]>
-        </content>
-    </entry>
     <entry>
         <title>gallery test</title>
         <author>
@@ -51,7 +30,7 @@
     love these pictures and the built-in gallery works very well.
   </p>
 
-  <div  class="gallery-wrapper">
+  <div  class="gallery-wrapper gallery-wrapper--wide">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
       <a href="https://publii.2br02b.social/media/posts/1/gallery/the-lord-of-the-rings-art-by-darrell-k-sweet-1934-2011-v0-5qohc39zujzd1.webp" data-size="1080x1066">
@@ -68,6 +47,31 @@
         <img decoding="async" loading="lazy" src="https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_vfuy9pvfuy9pvfuy-thumbnail.png" height="720" width="720" alt="enter" >
       </a>
       <figcaption>text</figcaption>
+    </figure><figure class="gallery__item">
+      <a href="https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_esg849esg849esg8.png" data-size="1024x1024">
+        <img decoding="async" loading="lazy" src="https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_esg849esg849esg8-thumbnail.png" height="768" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_imc4faimc4faimc4.png" data-size="2048x2048">
+        <img decoding="async" loading="lazy" src="https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_imc4faimc4faimc4-thumbnail.png" height="768" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_lb5yhblb5yhblb5y.png" data-size="2048x2048">
+        <img decoding="async" loading="lazy" src="https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_lb5yhblb5yhblb5y-thumbnail.png" height="768" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_sjashbsjashbsjas.png" data-size="2048x2048">
+        <img decoding="async" loading="lazy" src="https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_sjashbsjashbsjas-thumbnail.png" height="768" width="768" alt="" >
+      </a>
+      
+    </figure><figure class="gallery__item">
+      <a href="https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_tqk02ktqk02ktqk0.png" data-size="2048x2048">
+        <img decoding="async" loading="lazy" src="https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_tqk02ktqk02ktqk0-thumbnail.png" height="768" width="768" alt="" >
+      </a>
+      
     </figure>
     </div>
   </div>

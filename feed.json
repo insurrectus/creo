@@ -10,32 +10,18 @@
     },
     "items": [
         {
-            "id": "https://publii.2br02b.social/testing.html",
-            "url": "https://publii.2br02b.social/testing.html",
-            "title": "Testing",
-            "summary": "asdfasdfasdfasdfasdf adsfasdflkj;lkja;sldjkf;'[kl'asdf",
-            "content_html": "<p>asdfasdfasdfasdfasdf</p>\n<p>adsfasdflkj;lkja;sldjkf;'[kl'asdf</p>",
-            "author": {
-                "name": "Insurrectus Resistus"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-11-01T20:40:52-05:00",
-            "date_modified": "2025-11-01T20:40:52-05:00"
-        },
-        {
             "id": "https://publii.2br02b.social/gallery-test.html",
             "url": "https://publii.2br02b.social/gallery-test.html",
             "title": "gallery test",
             "summary": "love these pictures and the built-in gallery works very well. don't to text",
-            "content_html": "\n  <p>\n    love these pictures and the built-in gallery works very well.\n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://publii.2br02b.social/media/posts/1/gallery/the-lord-of-the-rings-art-by-darrell-k-sweet-1934-2011-v0-5qohc39zujzd1.webp\" data-size=\"1080x1066\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://publii.2br02b.social/media/posts/1/gallery/the-lord-of-the-rings-art-by-darrell-k-sweet-1934-2011-v0-5qohc39zujzd1-thumbnail.webp\" height=\"711\" width=\"720\" alt=\"i\" >\n      </a>\n      <figcaption>don't</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_1ap5xx1ap5xx1ap5.png\" data-size=\"2048x2048\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_1ap5xx1ap5xx1ap5-thumbnail.png\" height=\"720\" width=\"720\" alt=\"want\" >\n      </a>\n      <figcaption>to</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_vfuy9pvfuy9pvfuy.png\" data-size=\"2048x2048\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_vfuy9pvfuy9pvfuy-thumbnail.png\" height=\"720\" width=\"720\" alt=\"enter\" >\n      </a>\n      <figcaption>text</figcaption>\n    </figure>\n    </div>\n  </div>",
+            "content_html": "\n  <p>\n    love these pictures and the built-in gallery works very well.\n  </p>\n\n  <div  class=\"gallery-wrapper gallery-wrapper--wide\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://publii.2br02b.social/media/posts/1/gallery/the-lord-of-the-rings-art-by-darrell-k-sweet-1934-2011-v0-5qohc39zujzd1.webp\" data-size=\"1080x1066\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://publii.2br02b.social/media/posts/1/gallery/the-lord-of-the-rings-art-by-darrell-k-sweet-1934-2011-v0-5qohc39zujzd1-thumbnail.webp\" height=\"711\" width=\"720\" alt=\"i\" >\n      </a>\n      <figcaption>don't</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_1ap5xx1ap5xx1ap5.png\" data-size=\"2048x2048\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_1ap5xx1ap5xx1ap5-thumbnail.png\" height=\"720\" width=\"720\" alt=\"want\" >\n      </a>\n      <figcaption>to</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_vfuy9pvfuy9pvfuy.png\" data-size=\"2048x2048\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_vfuy9pvfuy9pvfuy-thumbnail.png\" height=\"720\" width=\"720\" alt=\"enter\" >\n      </a>\n      <figcaption>text</figcaption>\n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_esg849esg849esg8.png\" data-size=\"1024x1024\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_esg849esg849esg8-thumbnail.png\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_imc4faimc4faimc4.png\" data-size=\"2048x2048\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_imc4faimc4faimc4-thumbnail.png\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_lb5yhblb5yhblb5y.png\" data-size=\"2048x2048\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_lb5yhblb5yhblb5y-thumbnail.png\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_sjashbsjashbsjas.png\" data-size=\"2048x2048\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_sjashbsjashbsjas-thumbnail.png\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_tqk02ktqk02ktqk0.png\" data-size=\"2048x2048\">\n        <img decoding=\"async\" loading=\"lazy\" src=\"https://publii.2br02b.social/media/posts/1/gallery/Gemini_Generated_Image_tqk02ktqk02ktqk0-thumbnail.png\" height=\"768\" width=\"768\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
             "author": {
                 "name": "Insurrectus Resistus"
             },
             "tags": [
             ],
             "date_published": "2025-11-01T20:05:18-05:00",
-            "date_modified": "2025-11-01T20:36:31-05:00"
+            "date_modified": "2025-11-03T18:53:49-06:00"
         }
     ]
 }
