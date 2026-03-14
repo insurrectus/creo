@@ -3,12 +3,28 @@
     <title>Meanderings</title>
     <link href="https://publii.2br02b.social/feed.xml" rel="self" />
     <link href="https://publii.2br02b.social" />
-    <updated>2025-11-14T16:44:17-06:00</updated>
+    <updated>2026-03-13T21:26:46-05:00</updated>
     <author>
         <name>Insurrectus Resistus</name>
     </author>
     <id>https://publii.2br02b.social</id>
 
+    <entry>
+        <title>just something</title>
+        <author>
+            <name>Insurrectus Resistus</name>
+        </author>
+        <link href="https://publii.2br02b.social/just-something.html"/>
+        <id>https://publii.2br02b.social/just-something.html</id>
+
+        <updated>2026-03-13T21:26:18-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/WDwqs-hcv04" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>AI Council idea</title>
         <author>
@@ -29,7 +45,7 @@
             <![CDATA[
                     <p><img src="https://publii.2br02b.social/media/posts/6/blackholesun.jpg" class="type:primaryImage" alt="" /></p>
                 <p>how to create an AI council for free.  Probably way too far above my current knowledge level.  It would basically be creating different AI agents from different disciplines to vote on the correct answer to various questions.</p>
-<p>Way too far above my skill level, but something that can be fleshed out using AI.</p>
+<p>Way too far above my skill level, but something that can be fleshed out using AI</p>
             ]]>
         </content>
     </entry>
