@@ -3,7 +3,7 @@
     <title>Meanderings</title>
     <link href="https://publii.2br02b.social/feed.xml" rel="self" />
     <link href="https://publii.2br02b.social" />
-    <updated>2026-03-13T21:26:46-05:00</updated>
+    <updated>2026-03-13T21:31:27-05:00</updated>
     <author>
         <name>Insurrectus Resistus</name>
     </author>
@@ -16,11 +16,13 @@
         </author>
         <link href="https://publii.2br02b.social/just-something.html"/>
         <id>https://publii.2br02b.social/just-something.html</id>
+        <media:content url="https://publii.2br02b.social/media/posts/7/songofthesavageexile_logo.jpg" medium="image" />
 
         <updated>2026-03-13T21:26:18-05:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://publii.2br02b.social/media/posts/7/songofthesavageexile_logo.jpg" class="type:primaryImage" alt="" /></p>
                 <figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/WDwqs-hcv04" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
             ]]>
         </content>
