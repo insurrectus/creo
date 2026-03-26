@@ -3,12 +3,28 @@
     <title>Meanderings</title>
     <link href="https://publii.2br02b.social/feed.xml" rel="self" />
     <link href="https://publii.2br02b.social" />
-    <updated>2026-03-13T21:31:27-05:00</updated>
+    <updated>2026-03-25T19:33:30-05:00</updated>
     <author>
         <name>Insurrectus Resistus</name>
     </author>
     <id>https://publii.2br02b.social</id>
 
+    <entry>
+        <title>Conan Exiles Lore</title>
+        <author>
+            <name>Insurrectus Resistus</name>
+        </author>
+        <link href="https://publii.2br02b.social/conan-exiles-lore.html"/>
+        <id>https://publii.2br02b.social/conan-exiles-lore.html</id>
+
+        <updated>2026-03-25T19:33:30-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div class="post__iframe"><iframe loading="lazy" width="1905" height="742" src="https://www.youtube.com/embed/h5SmhMCLq_o" title="The Strange Genetics of Conan Exiles..." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>just something</title>
         <author>

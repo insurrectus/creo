@@ -10,6 +10,19 @@
     },
     "items": [
         {
+            "id": "https://publii.2br02b.social/conan-exiles-lore.html",
+            "url": "https://publii.2br02b.social/conan-exiles-lore.html",
+            "title": "Conan Exiles Lore",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"1905\" height=\"742\" src=\"https://www.youtube.com/embed/h5SmhMCLq_o\" title=\"The Strange Genetics of Conan Exiles...\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>",
+            "author": {
+                "name": "Insurrectus Resistus"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-03-25T19:33:30-05:00",
+            "date_modified": "2026-03-25T19:33:30-05:00"
+        },
+        {
             "id": "https://publii.2br02b.social/just-something.html",
             "url": "https://publii.2br02b.social/just-something.html",
             "title": "just something",
